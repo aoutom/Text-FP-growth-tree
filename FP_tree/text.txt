@@ -1,0 +1,3 @@
+Le big data désigne des ensembles de données devenus si volumineux qu'ils dépassent l'intuition. Le volume des données stockées est en pleine expansion. 
+Le volume des données stockées dans le monde fait plus que doubler tous les deux ans. 
+La gestion des données et le traitement des données en entreprise sont des éléments clés de réussite. Le big data exige des méthodes automatiques de gestion des données et de traitements des données.
